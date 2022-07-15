@@ -1,0 +1,146 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+::selection {
+    color: $White;
+    background: #1e9b2b;
+  }
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
+}
+body{
+    overflow-x: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0px;
+    padding: 0px;
+    @include breakpoint($secreen-max-sm){
+        br{
+            display: none;
+        }
+    }
+}
+.container-fluid{
+    // padding: 0px 60px 0px 100px;
+}
+
+
+.heading-H1{
+    font-size: $Font-size-88px;
+    line-height: $line-height-106px;
+    font-family: $font-family-BlueberrySans-ExtraBold;
+    @include breakpoint($secreen-max-md){
+        font-size: $Font-size-56px;
+        line-height: $line-height-70px; padding: 30px 0 0 0;
+    }
+}
+.heading-H2{
+    font-size: $Font-size-45px;
+    line-height: $line-height-70px;
+    font-family: $font-family-BlueberrySans-ExtraBold;
+    @include breakpoint($secreen-xs){
+        font-size: 38px;
+        line-height: 50px;
+    }
+}
+.heading-H2-0{
+    font-size: $Font-size-60px;
+    line-height: $line-height-70px;
+    font-family: $font-family-BlueberrySans-ExtraBold;
+    @include breakpoint($secreen-xs){
+        font-size: 38px;
+        line-height: 50px;
+    }
+}
+.heading-H3{
+    font-size: $Font-size-24px;
+    line-height: $line-height-34px;
+    font-family: $font-family-BlueberrySans-ExtraBold;
+}
+.heading-L{
+    font-size: $Font-size-20px;
+    line-height: $line-height-36px;
+    font-family: $font-family-BlueberrySans-Regular;
+}
+.heading-LB{
+    font-size: $Font-size-20px;
+    line-height: $line-height-36px;
+    font-family: $font-family-BlueberrySans-ExtraBold;
+}
+.heading-M{
+    font-size: $Font-size-18px;
+    line-height: $line-height-32px;
+    font-family: $font-family-BlueberrySans-Medium;
+}
+.heading-MB{
+    font-size: $Font-size-18px;
+    line-height: $line-height-32px;
+    font-family: $font-family-BlueberrySans-Regular;
+}
+.heading-MB2{
+    font-size: $Font-size-18px;
+    line-height: $line-height-32px;
+    font-family: $font-family-BlueberrySans-ExtraBold;
+}
+.heading-S{
+    font-size: $Font-size-16px;
+    line-height: $line-height-32px;
+    font-family: $font-family-BlueberrySans-ExtraBold;
+}
+.heading-SB{
+    font-size: $Font-size-16px;
+    line-height: $line-height-30px;
+    font-family: $font-family-BlueberrySans-Medium;
+}
+
+.primary-btn{
+
+    padding: 9px 22px;
+    background-color: #FFFFFF;
+    color: #1a8324;
+    font-size: 20px;
+    //line-height: 36px;
+    font-family: "BlueberrySans-Medium";
+    border-radius: 10px;
+    transition: 0.4s;
+    &:hover{
+        background-color: #1a8324;
+        color: $White;
+    }
+}
+.white-btn{
+    padding: 12px 32px;
+    background-color: $White;
+    color: $Primary-color;
+    font-size: $Font-size-20px;
+    line-height: $line-height-36px;
+    font-family: $font-family-BlueberrySans-ExtraBold;
+    border: 2px solid #292D32;
+    border-radius: 20px;
+    transition: .4s;
+    &:hover{
+        background-color: $Primary-color;
+        color: $White;
+        border: 2px solid #292D32;
+    }
+}
+

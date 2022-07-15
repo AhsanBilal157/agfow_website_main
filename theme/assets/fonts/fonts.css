@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'BlueberrySans-Black';
+    src: url('../fonts/BlueberrySans-Black.eot');
+    src: url('../fonts/BlueberrySans-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Black.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Black.woff') format('woff'),
+        url('../fonts/BlueberrySans-Black.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Black.svg#BlueberrySans-Black') format('svg');
+   
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Bold';
+    src: url('../fonts/BlueberrySans-Bold.eot');
+    src: url('../fonts/BlueberrySans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Bold.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Bold.woff') format('woff'),
+        url('../fonts/BlueberrySans-Bold.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Bold.svg#BlueberrySans-Bold') format('svg');
+   
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Black';
+    src: url('../fonts/BlueberrySans-Black_1.eot');
+    src: url('../fonts/BlueberrySans-Black_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Black_1.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Black_1.woff') format('woff'),
+        url('../fonts/BlueberrySans-Black_1.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Black_1.svg#BlueberrySans-Black') format('svg');
+   
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Bold';
+    src: url('../fonts/BlueberrySans-Bold_1.eot');
+    src: url('../fonts/BlueberrySans-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Bold_1.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Bold_1.woff') format('woff'),
+        url('../fonts/BlueberrySans-Bold_1.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Bold_1.svg#BlueberrySans-Bold') format('svg');
+
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Regular';
+    src: url('../fonts/../fonts/BlueberrySans-Regular.eot');
+    src: url('../fonts/../fonts/BlueberrySans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/BlueberrySans-Regular.woff2') format('woff2'),
+        url('../fonts/../fonts/BlueberrySans-Regular.woff') format('woff'),
+        url('../fonts/../fonts/BlueberrySans-Regular.ttf') format('truetype'),
+        url('../fonts/../fonts/BlueberrySans-Regular.svg#BlueberrySans-Regular') format('svg');
+  
+}
+
+@font-face {
+    font-family: 'BlueberrySans-ExtraBold';
+    src: url('../fonts/../fonts/BlueberrySans-ExtraBold.eot');
+    src: url('../fonts/../fonts/BlueberrySans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/BlueberrySans-ExtraBold.woff2') format('woff2'),
+        url('../fonts/../fonts/BlueberrySans-ExtraBold.woff') format('woff'),
+        url('../fonts/../fonts/BlueberrySans-ExtraBold.ttf') format('truetype'),
+        url('../fonts/../fonts/BlueberrySans-ExtraBold.svg#BlueberrySans-ExtraBold') format('svg');
+   
+}
+
+@font-face {
+    font-family: 'BlueberrySans-ExtraBold';
+    src: url('../fonts/BlueberrySans-ExtraBold_1.eot');
+    src: url('../fonts/BlueberrySans-ExtraBold_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-ExtraBold_1.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-ExtraBold_1.woff') format('woff'),
+        url('../fonts/BlueberrySans-ExtraBold_1.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-ExtraBold_1.svg#BlueberrySans-ExtraBold') format('svg');
+   
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Medium';
+    src: url('../fonts/BlueberrySans-Medium.eot');
+    src: url('../fonts/BlueberrySans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Medium.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Medium.woff') format('woff'),
+        url('../fonts/BlueberrySans-Medium.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Medium.svg#BlueberrySans-Medium') format('svg');
+    
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Light';
+    src: url('../fonts/BlueberrySans-Light.eot');
+    src: url('../fonts/BlueberrySans-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Light.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Light.woff') format('woff'),
+        url('../fonts/BlueberrySans-Light.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Light.svg#BlueberrySans-Light') format('svg');
+   
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Medium';
+    src: url('../fonts/BlueberrySans-Medium_1.eot');
+    src: url('../fonts/BlueberrySans-Medium_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Medium_1.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Medium_1.woff') format('woff'),
+        url('../fonts/BlueberrySans-Medium_1.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Medium_1.svg#BlueberrySans-Medium') format('svg');
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Regular';
+    src: url('../fonts/BlueberrySans-Regular_1.eot');
+    src: url('../fonts/BlueberrySans-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Regular_1.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Regular_1.woff') format('woff'),
+        url('../fonts/BlueberrySans-Regular_1.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Regular_1.svg#BlueberrySans-Regular') format('svg');
+    
+}
+
+@font-face {
+    font-family: 'BlueberrySans-Light';
+    src: url('../fonts/BlueberrySans-Light_1.eot');
+    src: url('../fonts/BlueberrySans-Light_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlueberrySans-Light_1.woff2') format('woff2'),
+        url('../fonts/BlueberrySans-Light_1.woff') format('woff'),
+        url('../fonts/BlueberrySans-Light_1.ttf') format('truetype'),
+        url('../fonts/BlueberrySans-Light_1.svg#BlueberrySans-Light') format('svg');
+}
+
+
+@font-face {
+    font-family: 'SpaceGrotesk-Bold';
+    src: url('../fonts/SpaceGrotesk-Bold.eot');
+    src: url('../fonts/SpaceGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SpaceGrotesk-Bold.woff2') format('woff2'),
+        url('../fonts/SpaceGrotesk-Bold.woff') format('woff'),
+        url('../fonts/SpaceGrotesk-Bold.ttf') format('truetype'),
+        url('../fonts/SpaceGrotesk-Bold.svg#SpaceGrotesk-Bold') format('svg');
+    
+}
+@font-face {
+    font-family: 'WorkSans-Regular';
+    src: url('../fonts/WorkSans-Regular.eot');
+    src: url('../fonts/WorkSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/WorkSans-Regular.woff2') format('woff2'),
+        url('../fonts/WorkSans-Regular.woff') format('woff'),
+        url('../fonts/WorkSans-Regular.ttf') format('truetype'),
+        url('../fonts/WorkSans-Regular.svg#WorkSans-Regular') format('svg');
+    
+}
+
+
